@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 100
+    },
+    "auditLog": "logger\\.a77f5780eb2f85a09f0f2347c224184555f51d04-audit.json",
+    "files": [
+        {
+            "date": 1598615823437,
+            "name": "logger\\RawData.2020-08-28",
+            "hash": "dd194da04ecc4d6433c46a11cb299be5"
+        }
+    ]
+}

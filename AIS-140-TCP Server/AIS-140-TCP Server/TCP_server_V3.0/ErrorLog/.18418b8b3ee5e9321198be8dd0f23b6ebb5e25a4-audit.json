@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 100
+    },
+    "auditLog": "ErrorLog\\.18418b8b3ee5e9321198be8dd0f23b6ebb5e25a4-audit.json",
+    "files": [
+        {
+            "date": 1598615823446,
+            "name": "ErrorLog\\error-parser.2020-08-28",
+            "hash": "7a7dd8f3963b425f925bc3f8f5123d5d"
+        }
+    ]
+}
