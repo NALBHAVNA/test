@@ -17,7 +17,7 @@
     "http-post": "^0.1.1",
     "json-duplex-stream": "^1.2.0",
     "line-reader": "^0.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mysql": "^2.16.0",
     "net": "^1.0.2",
     "nodejslogger": "^1.2.3",
